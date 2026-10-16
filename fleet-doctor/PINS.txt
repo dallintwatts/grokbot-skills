@@ -1,0 +1,4 @@
+bbab23e7a057634073c65a4de296beec33eadb50dfa998c9fdafdb49ddebfd85 19934 fleet-doctor-audit fleet-doctor-audit/SKILL.md
+6f06cf2b70eb4a2256e2c6fa068414c7e6f45bf3c2e6e92ccc4a9968078f82c1 15419 fleet-doctor-fix-library fleet-doctor-fix-library/SKILL.md
+d97878993c5f480668cdc01e54e905fc0409dc01b2258f5e75430576da0c5ed2 12119 fleet-doctor-getting-started fleet-doctor-getting-started/SKILL.md
+7075b9be28a2c86cbc87e6d82f0450c01c0f75cfce917d9995ea3501ecd14e09 7029 fleet-doctor-vet-template fleet-doctor-vet-template/SKILL.md

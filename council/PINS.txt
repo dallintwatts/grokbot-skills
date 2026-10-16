@@ -1,0 +1,4 @@
+eb1e9ac432a95ba4ccf08944b26eeb48d13f806302551c20aec73aae47ac57e8 11380 council-getting-started council-getting-started/SKILL.md
+140fca4b54fdcc1c3276b987d16ef2980e08d0d6d2c84e2a5ed093f5031500cd 12032 council-revisit council-revisit/SKILL.md
+f98885eaf4f17658ce183786f50cc3348fbe51db6345c414951a9edf08cbdf1b 19786 council-run council-run/SKILL.md
+805c124cd07a30c36d960863d1e286a2e3f6b474db2364c1014bb2cb28a6a4c5 7924 council-scoreboard council-scoreboard/SKILL.md
